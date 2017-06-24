@@ -1,5 +1,7 @@
+package diff.java;
 
-public class mainjava {
+
+public class main {
 	public static void  main(String args[]) {
 		final String value = "TEST";
 		if (value.length() == 4) {
