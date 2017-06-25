@@ -1,3 +1,5 @@
+package diff.kotlin
+
 fun main(args: Array<String>) {
 	var value = "TEST"
 	if (value.length == 4) {

@@ -1,3 +1,5 @@
+package startbook.list4
+
 class MyIterator {
     operator fun hasNext(): Boolean = Math.random() < 0.5
     operator fun next(): String = "Hello"

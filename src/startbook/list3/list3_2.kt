@@ -1,3 +1,5 @@
+package startbook.list3
+
 fun main(args: Array<String>) {
     class Rational(val numerator: Int, val denominator: Int) {
         override fun toString(): String = "${numerator}/${denominator}"

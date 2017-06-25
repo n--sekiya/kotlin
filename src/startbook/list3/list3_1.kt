@@ -1,3 +1,6 @@
+package startbook.list3
+
+
 fun main(args: Array<String>) {
     class Rational(val numrator:Int, val denominator: Int)
     var half = Rational(1,2)

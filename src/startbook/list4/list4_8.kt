@@ -1,3 +1,5 @@
+package startbook.list4
+
 fun main(args: Array<String>) {
 	for (x in arrayOf(1,2,3)) {
         println(x)
