@@ -9,5 +9,7 @@ public class main {
 		} else {
 			System.out.println("not");
 		}
+		User s = new User();
+		s.name = "sss";
 	}
 }
