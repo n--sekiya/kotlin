@@ -3,7 +3,7 @@ fun main(args: Array<String>) {
 	for (number in numbers) {
 		when (number) {
 			1 -> println("one")
-			in 2..10 -> println("2 <= ${number} <= 5")
+			in 2..5 -> println("2 <= ${number} <= 5")
 			else -> println(number.toString())
 		}
 	}
